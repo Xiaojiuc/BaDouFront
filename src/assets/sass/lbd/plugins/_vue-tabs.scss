@@ -1,0 +1,25 @@
+.vue-tabs {
+  .nav-tabs-navigation{
+    margin-bottom: 10px
+  }
+  .tab-content{
+    padding: 0px 2px
+  }
+  .nav > li span.title{
+    color: $black-color;
+    font-size: 0.8rem
+  }
+  .nav.nav-tabs > li > a {
+    &.active_tab {
+      border-bottom: 1px solid white !important;
+      span.title {
+        color: $color-main;
+      }
+    }
+    &:hover,
+    &:focus {
+      background-color: white !important;
+      border: 1px solid $medium-gray;
+    }
+  }
+}
