@@ -30,7 +30,7 @@
     "jvectormap-next": "^3.0.0",
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "mockjs": "^1.0.1-beta3",
     "moment": "^2.23.0",
     "perfect-scrollbar": "0.7.1",
