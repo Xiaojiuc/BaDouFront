@@ -32,7 +32,7 @@
     "less-loader": "^4.1.0",
     "lodash": "^4.17.11",
     "mockjs": "^1.0.1-beta3",
-    "moment": "^2.23.0",
+    "moment": "^2.29.4",
     "perfect-scrollbar": "0.7.1",
     "sweetalert2": "^7.0.0",
     "v-tooltip": "^2.0.0-rc.25",
